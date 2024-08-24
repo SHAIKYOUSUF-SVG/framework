@@ -10,11 +10,6 @@
 
 30-10-2022                       winteck                 This module is to generate log files
 """
-
-
-
-
-import re 
 import logging
 import os
 import sys
@@ -30,7 +25,7 @@ FORMATTER = logging.Formatter("%(asctime)s %(levelname)s %(filename)s'' %(funcNa
 dd = time.strftime("%Y-%m-%d")
 LOG_FILE = "{}/".format(path) + dd
 
-def mkdir_p(path):
+defdef  mkdir_p(path):
     """
     Method: to create log dir
     :param path: path of log dir
