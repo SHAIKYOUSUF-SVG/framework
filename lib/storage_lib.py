@@ -22,7 +22,7 @@ log = logger.get_logger(__name__)
 
 
 class MainLib:
-    def _init_(self):
+    def _init_(self):/
         pass
     def get_server_uptime(self):
         """

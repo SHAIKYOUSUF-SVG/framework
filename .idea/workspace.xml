@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="878ce7e6-9c0a-486a-8cfe-5e2c2e40314f" name="Changes" comment="" />
+    <list default="true" id="878ce7e6-9c0a-486a-8cfe-5e2c2e40314f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/connect.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/connect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/storage_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/storage_lib.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_file2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_file2.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +51,7 @@
     &quot;Python.test_listdrives.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/python/pycharm/framework/testcases&quot;
   }
 }</component>
@@ -184,9 +190,9 @@
       <item itemvalue="Python.connect" />
       <item itemvalue="Python.storage_lib" />
       <item itemvalue="Python tests.Python tests in bin" />
-      <item itemvalue="Python tests.python tests in conftest.py" />
-      <item itemvalue="Python tests.Python tests in test_file2.py" />
       <item itemvalue="Python tests.Python tests in test_file1.py" />
+      <item itemvalue="Python tests.Python tests in test_file2.py" />
+      <item itemvalue="Python tests.python tests in conftest.py" />
     </list>
     <recent_temporary>
       <list>
@@ -215,16 +221,5 @@
       <updated>1721453781727</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testcases/conftest.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

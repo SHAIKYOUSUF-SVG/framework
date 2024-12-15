@@ -3,7 +3,7 @@ import pytest
 import sys
 from os.path import dirname, abspath
 sys.path.append(dirname(dirname(abspath(__file__))))
-from lib.connect import exec_cmd
+from lib.connect import exec_cmd2
 from lib.logger import *
 from lib.storage_lib import MainLib
 

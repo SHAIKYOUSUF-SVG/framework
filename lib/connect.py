@@ -46,3 +46,4 @@ def exec_cmd(cmd):
     return out.decode()
 #out1=exec_cmd("lscpu")
 #print(out1)
+
